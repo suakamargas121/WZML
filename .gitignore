@@ -1,4 +1,3 @@
-config.env
 Thumbnails/*
 list_drives.txt
 cookies.txt
@@ -8,8 +7,6 @@ downloads
 data*
 .vscode
 .idea
-*.json
-*.pickle
 .netrc
 log.txt
 authorized_chats.txt
